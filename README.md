@@ -6,12 +6,12 @@
 
 ### Índice
 
-1. [Trailer](#-Trailer)
-2. [Sinopse](#-Sinopse)
-3. [Personagens](#-Personagens)
-4. [Direção](#-Direção)
-5. [História](#-História)
-6. [The end](<(#-The-End)>)
+1. [Trailer](#Trailer)
+2. [Sinopse](#Sinopse)
+3. [Personagens](#Personagens)
+4. [Direção](#Direção)
+5. [História](#História)
+6. [The end](<(#The-End)>)
 
 ---
 
