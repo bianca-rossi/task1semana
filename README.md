@@ -7,30 +7,30 @@
 #### Índice
 
 1. [Trailer](#-Trailer)
-2. [Sinopse](#-sinopse)
-3. [Personagens](#-personagens)
-4. [Direção](#-direção)
-5. [História](#-história)
-6. [The end](<(#-theend)>)
+2. [Sinopse](#-Sinopse)
+3. [Personagens](#-Personagens)
+4. [Direção](#-Direção)
+5. [História](#-História)
+6. [The end](<(#-TheEnd)>)
 
 ---
 
-#### 1. Trailer
+#### Trailer
 
-<center> <a href= "https://www.youtube.com/watch?v=bK6ldnjE3Y0" target= "_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a></center>
+<center> <a href= "https://www.youtube.com/watch?v=bK6ldnjE3Y0" target= "_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> </center>
 
 ---
 
-#### 2. Sinopse
+#### Sinopse
 
-<iframe src="https://giphy.com/embed/idljdFb6h52OwuoKhQ" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/bombaysoftwares-movie-hollywood-oppenheimer-idljdFb6h52OwuoKhQ"></a></p>
+<iframe src="https://giphy.com/embed/idljdFb6h52OwuoKhQ" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/bombaysoftwares-movie-hollywood-oppenheimer-idljdFb6h52OwuoKhQ">via GIPHY</a></p>
 
 O filme foi baseado no livro bibliográfico American Prometheus e conta a trajetória do físico Robert Oppenheimer, conhecido como o “pai da bomba atômica”. No enredo, é possível ver o início do Projeto Manhattan, como abordagem inicial do exército estadunidense ao professor universitário, até mesmo as consequências da ação, que matou e feriu mais de 100 mil japoneses.
 Ademais, o roteirista do filme procurou abordar mais as relações pessoais de Oppenheimer, como o casamento com Katherine e seu caso com a personagem Jean.
 
 ---
 
-#### 3. Personagens
+#### Personagens
 
 `J. Robert Oppenheimer`
 
@@ -78,12 +78,20 @@ A atriz Florence Pugh interpreta uma das poucas personagens femininas do filme. 
 
 ---
 
-#### 4. Direção
+#### Direção
+
+![alt](https://novaerageek.com.br/wp-content/uploads/2023/07/Filmes-dirigidos-por-Christopher-Nolan-o-diretor-de-Oppenheimer.png)
+
+Christopher Nolan foi o diretor e roteirista responsável por dar vida ao filme Oppenheimer.
+
+> "Acabei de fazer um filme de três horas de duração sobre Robert Oppenheimer, que tem classificação indicativa para maiores e é parcialmente em preto e branco – e este filme faturou quase um bilhão de dólares."
+>
+> > Christopher Nolan, em entrevista à Empire
 
 ---
 
-#### 5. História
+#### História
 
 ---
 
-#### 6. The End
+#### The End
