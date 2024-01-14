@@ -92,6 +92,15 @@ Christopher Nolan foi o diretor e roteirista responsável por dar vida ao filme 
 
 ## História
 
+A história se passa durante a Segunda Guerra Mundial, quando Oppenheimer liderou uma equipe de cientistas em Los Alamos, Novo México, para desenvolver a bomba atômica. O filme retrata a complexidade do personagem principal, que é retratado como um homem dividido entre suas obrigações patrióticas e suas preocupações éticas com a criação de uma arma tão devastadora.
+No início da trama, Oppenheimer é mostrado como um jovem estudante de física, que se destaca por sua inteligência e dedicação. Ele é convidado a participar do Projeto Manhattan, uma iniciativa secreta liderada pelos Estados Unidos para desenvolver a bomba atômica antes que a Alemanha nazista o fizesse.
+Oppenheimer é colocado à frente do projeto e é responsável por supervisionar a equipe de cientistas que trabalham na criação da bomba. O filme mostra como Oppenheimer enfrenta desafios técnicos e pessoais durante o projeto, incluindo a pressão do governo dos Estados Unidos e a preocupação com o impacto da bomba na humanidade.
+
 ---
 
 ## The End
+
+E aí, curtiu? Então vem conversar com a gente sobre 😄
+
+<a href= "https://www.instagram.com/birossi_/" target= "_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  
+<a href= "https://www.instagram.com/pedro_malazartes/" target= "_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
