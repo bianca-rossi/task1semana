@@ -1,10 +1,10 @@
-# <center>Oppenheimer</center>
+# Oppenheimer
 
 ![Alt ou título da imagem](https://cinepop.com.br/wp-content/uploads/2023/07/oppenheimer-movie.jpg.webp)
 
 ---
 
-### Índice
+## Índice
 
 1. [Trailer](#Trailer)
 2. [Sinopse](#Sinopse)
@@ -15,13 +15,13 @@
 
 ---
 
-### Trailer
+## Trailer
 
 <center> <a href= "https://www.youtube.com/watch?v=bK6ldnjE3Y0" target= "_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> </center>
 
 ---
 
-### Sinopse
+## Sinopse
 
 ![](oppenheimer.gif)
 
@@ -30,7 +30,7 @@ Ademais, o roteirista do filme procurou abordar mais as relações pessoais de O
 
 ---
 
-### Personagens
+## Personagens
 
 `J. Robert Oppenheimer`
 
@@ -78,7 +78,7 @@ A atriz Florence Pugh interpreta uma das poucas personagens femininas do filme. 
 
 ---
 
-### Direção
+## Direção
 
 ![alt](https://novaerageek.com.br/wp-content/uploads/2023/07/Filmes-dirigidos-por-Christopher-Nolan-o-diretor-de-Oppenheimer.png)
 
@@ -90,8 +90,8 @@ Christopher Nolan foi o diretor e roteirista responsável por dar vida ao filme 
 
 ---
 
-### História
+## História
 
 ---
 
-### The End
+## The End
